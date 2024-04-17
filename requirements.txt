@@ -1,2 +1,3 @@
 st-pages
 joblib
+plotly==5.21.0
